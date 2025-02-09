@@ -7,7 +7,7 @@ Melhorias:
     [] Interface que rode o comando cli para o usuário.
         - Botão para copiar a senha para a área de transferência.
         - Estilização com ttk para um design mais moderno.
-    [] Resposta a erros, tratar erros adequadamente.
+    [x] Resposta a erros, tratar erros adequadamente.
 
 Tratamento de erro:
     - Que erros tratar?
