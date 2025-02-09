@@ -1,11 +1,13 @@
 Melhorias: 
     [x] Cada vez que rodarmos, a senha será diferente devido ao salt e ao embaralhamento.
         - A ideia desse sistema é o usuário poder colocar uma frase, uma frase base e um salt, para poder lembrar a senha.
-        - Ou seja, sempre que colocar as mesmas frases é necessário gerar a mesma senha
-    Interface que rode o comando cli para o usuário.
+        - Ou seja, sempre que colocar as mesmas frases é necessário gerar a mesma senha.
+    [] Melhorar o cálculo de Força.
+    [] Utilizar outros tipos de caracteres na senha.
+    [] Interface que rode o comando cli para o usuário.
         - Botão para copiar a senha para a área de transferência.
         - Estilização com ttk para um design mais moderno.
-    Resposta a erros, tratar erros adequadamente.
+    [] Resposta a erros, tratar erros adequadamente.
 
 Tratamento de erro:
     - Que erros tratar?
